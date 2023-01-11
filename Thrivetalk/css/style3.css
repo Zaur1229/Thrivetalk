@@ -1,0 +1,15 @@
+.bg-blue {
+    background-color: #62D0DF;
+    margin: 0;
+    overflow: hidden;
+    width: 100%;
+}
+
+.bg-blue .content {
+    padding-top: 6em;
+}
+
+.bg-blue .content p {
+    padding: 4em 0;
+    width: 80%;
+}

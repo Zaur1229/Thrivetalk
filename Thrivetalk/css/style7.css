@@ -1,0 +1,24 @@
+.additional-info img {
+    margin-right: auto;
+    margin-right: 0em;
+    width: 525px;
+}
+
+.additional-info .additional-info-content {
+    width: 40%;
+    margin-left: 10em;
+    justify-content: space-around;
+}
+
+.additional-info-content .dark-blue b {
+    font-size: 2em;
+    line-height: 1.5em;
+}
+
+.additional-info-content span {
+    color: #62D0DF;
+}
+
+.additional-info-content .yellow {
+    color: #FAB63E;
+}

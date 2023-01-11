@@ -1,0 +1,21 @@
+.logo {
+  margin: 2em 3em;
+}
+
+header .column {
+  width: 40%;
+  margin: 1em auto 1.5em;
+}
+
+.sosial {
+  padding: 3em 0 4em;
+  color: #696969;
+}
+
+.subtitle {
+  font-size: 2em;
+}
+
+.if-you {
+  font-size: 0.8em;
+}

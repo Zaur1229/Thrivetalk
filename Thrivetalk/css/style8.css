@@ -1,0 +1,26 @@
+.contact-us {
+    overflow: hidden;
+    margin: 0;
+    width: 100%;
+    background-color: #22356F;
+}
+
+.contact-us img {
+    margin-left: auto;
+    margin-right: 0em;
+    width: 525px;
+}
+
+.contact-us-content {
+    justify-content: space-around;
+    padding-left: 10em;
+}
+
+.contact-us-content h2 {
+    font-size: 4em;
+}
+
+.contact-us-content .big {
+    font-size: 2.5em;
+    width: 70%;
+}

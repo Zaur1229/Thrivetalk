@@ -1,0 +1,23 @@
+.bg-white {
+  padding: 4em 0;
+  width: 70%;
+  margin: auto;
+}
+
+.bg-white p {
+  padding: 5em 0 0 0;
+}
+
+.bg-white flex {
+  justify-content: start;
+}
+
+.we {
+  width: 50%;
+  margin-left: 10em;
+}
+
+.bg-white .centered-text {
+  font-size: 0.6em;
+  color: rgba(34, 53, 111, 0.5);
+}

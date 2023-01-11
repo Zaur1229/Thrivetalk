@@ -1,0 +1,17 @@
+.white-blocks .flex {
+    flex-wrap: wrap;
+}
+
+.white-blocks .block {
+    width: 33%;
+}
+
+.white-blocks h3 {
+    width: 65%;
+    margin: 3em auto 1em;
+}
+
+.white-blocks p {
+    width: 65%;
+    margin: 0 auto 4em;
+}

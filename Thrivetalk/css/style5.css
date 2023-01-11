@@ -1,0 +1,64 @@
+h2 {
+    font-size: 2.7em;
+}
+
+.colorful-blocks, .colorful-blocks2 {
+    max-width: 1440px;
+    margin: auto;
+}
+
+.colorful-blocks .block {
+    width: 25%;
+    height: 20em;
+    padding-top: 6em;
+}
+
+.colorful-blocks2 .block {
+    width: 33.33%;
+    height: 20em;
+    padding-top: 6em;
+}
+
+.colorful-blocks2 .flex {
+    margin-top: 5em;
+    flex-wrap: wrap;
+}
+
+hr {
+    width: 15em;
+    height: 0.1em;
+    background-color: white;
+    border: none;
+}
+
+.pink-block {
+    background-color: #FFE2DE;
+}
+
+.green-block {
+    background-color: #C4E769;
+}
+
+.blue-block {
+    background-color: #62D0DF;
+}
+
+.picture-block {
+    background: url("../img/joanna-kosinska-340748.png") no-repeat;
+}
+
+.middle-blue-block {
+    background-color: #0052C1;
+}
+
+.dark-blue-block {
+    background-color: #22356F;
+}
+
+.dark-pink-block {
+    background-color: #DEE1FF;
+}
+
+.violet-block {
+    background-color: #8F00FF;
+}
